@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "type": "class",
+    "title": "Computers",
+    "description": "Computer Science is the study of computers and computational systems. Unlike electrical and computer engineers, computer scientists deal mostly with software and software systems; this includes their theory, design, development, and application.",
+    "price": 30,
+    "area": "Science",
+    "length": 30,
+    "orientation": "individual",
+    "rating": 3,
+    "review": [
+      {
+        "id": 1,
+        "name": "Fatimah Bukunmi",
+        "feedback": "I love computer Science. It helpsto widen my knowledge."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "class",
+    "title": "Civic Education",
+    "description": "Civic education is the study of the theoretical, political and practical aspects of citizenship, as well as its rights and duties. It includes the study of civil law and civil code, and the study of government with attention to the role of citizens―as opposed to external factors―in the operation and oversight of government.",
+    "price": 50,
+    "area": "Education",
+    "length": 60,
+    "orientation": "individual",
+    "rating": 2,
+    "review": [
+      {
+        "id": 1,
+        "name": "Anurika",
+        "feedback": "I was move by the history. I will love to know more."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "activity",
+    "title": "Agriculture",
+    "description": "Agriculture is the process of producing food, feed, fiber and many other desired products by the cultivation of certain plants and the raising of domesticated animals (livestock)." ,
+    "price": 100,
+    "area": "Agriculture",
+    "length": 10,
+    "orientation": "individual",
+    "rating": 3,
+    "review": [
+      {
+        "id": 1,
+        "name": "Martins Kingsley",
+        "feedback": "I learnt about the future of farming as well as ensuring adequate food production for feeding the human race."
+      },
+      {
+        "id": 2,
+        "name": "Temilola",
+        "feedback": "Nice course. I became interested in 10minutes into the course"
+      }
+    ]
+  },
+   {
+    "id": 4,
+    "type": "class",
+    "title": "Philosophy ",
+    "description": "It a statement (or set of statements) that identifies and clarifies the beliefs, values and understandings of an individual or group with respect to education.",
+    "price": 50,
+    "area": "Belief",
+    "length": 40,
+    "orientation": "group",
+    "rating": 1,
+    "author": {
+      "firstname": "Ekene",
+      "lastname": "Okoli"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "feedback": "Nice course. I became a better person after completing this course"
+       }
+    ]
+  },
+  {
+    "id": 5,
+    "type": "activity",
+    "title": "English ",
+    "description": "Greatly and tremendously splufeek",
+    "price": 50,
+    "area": "Language",
+    "length": 40,
+    "orientation": "group",
+    "rating": 1,
+    "author": {
+      "firstname": "Mary",
+      "lastname": "Sweet"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "Mary Jane",
+        "feedback": "Greatly and tremendously splufeek"
+      },
+      {
+        "id": 2,
+        "name": "Broda shaggy",
+        "feedback": "Nice course. I became interested in technology 10minutes into the course"
+      }
+    ]  
+  },
+  {
+    "id": 4,
+    "type": "class",
+    "title": "Philosophy ",
+    "description": "It a statement (or set of statements) that identifies and clarifies the beliefs, values and understandings of an individual or group with respect to education.",
+    "price": 50,
+    "area": "Belief",
+    "length": 40,
+    "orientation": "group",
+    "rating": 1,
+    "author": {
+      "firstname": "Ekene",
+      "lastname": "Okoli"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "feedback": "Nice course. I became a better person after completing this course"
+       }
+    ]
+  },
+  {
+    "id": 4,
+    "type": "class",
+    "title": "Philosophy ",
+    "description": "It a statement (or set of statements) that identifies and clarifies the beliefs, values and understandings of an individual or group with respect to education.",
+    "price": 50,
+    "area": "Belief",
+    "length": 40,
+    "orientation": "group",
+    "rating": 1,
+    "author": {
+      "firstname": "Ekene",
+      "lastname": "Okoli"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "feedback": "Nice course. I became a better person after completing this course"
+       }
+    ]
+  }
+ 
+]
